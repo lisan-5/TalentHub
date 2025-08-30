@@ -86,14 +86,11 @@ export const LoginPage: React.FC = () => {
                 </div>
               )}
 
-              {/* Demo Accounts Info */}
               <div className="bg-blue-50 dark:bg-blue-900 border border-blue-200 dark:border-blue-400 rounded-lg p-4">
                 <h3 className="font-medium text-blue-900 dark:text-blue-200 mb-2">Demo Accounts</h3>
                 <div className="text-sm text-blue-700 dark:text-blue-300 space-y-1">
-                  <p><strong>Applicant:</strong> john@example.com</p>
-                  <p><strong>Employer:</strong> jane@techcorp.com</p>
                   <p><strong>Admin:</strong> admin@talenthub.com</p>
-                  <p className="text-xs mt-2">Password: Any password will work</p>
+                  <p className="text-xs mt-2">Password: password</p>
                 </div>
               </div>
 
