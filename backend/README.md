@@ -1,5 +1,4 @@
-(The file `c:\Users\lisan\Desktop\talenthub-backend\README.md` exists, but is empty)
-# TalentHub Backend (local dev)
+# TalentHub Backend
 
 Small Laravel backend used for the TalentHub jobs board. This repository contains migrations, models, controllers, Sanctum token auth, resume uploads, seeders and a small Postman collection for API exploration.
 
@@ -62,3 +61,4 @@ Run unit/feature tests with PHPUnit:
 - Local SQLite DB is used by default for quick dev. See `config/database.php`.
 
 If you want me to expand this README (examples for axios/AuthContext, Postman usage, or CI steps) tell me which section to add.
+
